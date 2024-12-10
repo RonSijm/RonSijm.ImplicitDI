@@ -1,0 +1,7 @@
+<Project>
+  	<PropertyGroup>
+        <Authors>Ron Sijm</Authors>
+		<Company>Ron Sijm</Company>
+        <VersionPrefix>0.0.3</VersionPrefix>
+	</PropertyGroup>
+</Project>
